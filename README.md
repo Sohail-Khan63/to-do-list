@@ -23,5 +23,5 @@ The app is fully responsive and works smoothly on all screen sizes:
 - **CSS** – Styling and layout (with media queries)
 - **JavaScript** – Functionality and interactivity
 
-
-
+## Live Demo
+**Click to Preview App** <a href="https://sohail-khan63.github.io/to-do-list/">https://sohail-khan63.github.io/to-do-list/</a>
